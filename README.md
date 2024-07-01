@@ -57,7 +57,7 @@ This application is licensed under the MIT License. See the [LICENSE](LICENSE) f
     &nbsp;&nbsp;
     <img src="./docs/img/home_page.png" alt="home_page" width="250">
     &nbsp;&nbsp;
-    <img src="./docs/img/addnote_page.png" alt="addnote_page" width="250">
+    <img src="./docs/img/add_note.png" alt="addnote_page" width="250">
     &nbsp;&nbsp;
     <img src="./docs/img/delete_page.png" alt="addnote_page" width="250">
     &nbsp;&nbsp;
