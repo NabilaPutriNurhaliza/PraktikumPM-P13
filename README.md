@@ -49,3 +49,17 @@ Contributions are highly welcomed! If you have ideas for improving this applicat
 ## License
 
 This application is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Project Thumbnail
+
+<p float="left">
+    <img src="./docs/img/notesapp.png" alt="notesapp" width="250">
+    &nbsp;&nbsp;
+    <img src="./docs/img/home_page.png" alt="home_page" width="250">
+    &nbsp;&nbsp;
+    <img src="./docs/img/addnote_page.png" alt="addnote_page" width="250">
+    &nbsp;&nbsp;
+    <img src="./docs/img/delete_page.png" alt="addnote_page" width="250">
+    &nbsp;&nbsp;
+    <img src="./docs/img/about_page.png" alt="addnote_page" width="250">
+</p>

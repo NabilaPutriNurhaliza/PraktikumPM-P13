@@ -20,7 +20,7 @@ class AboutPage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Image.asset(
-              'assets/images/profile.jpg',
+              'assets/images/profile.jpg', // Pastikan jalur ke gambar benar
               width: 100,
               height: 100,
             ),
@@ -34,10 +34,18 @@ class AboutPage extends StatelessWidget {
               style: TextStyle(fontSize: 16),
             ),
             SizedBox(height: 20),
+            Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 16.0),
+              child: Text(
+                "Saya merupakan mahasiswa semester 6 di Institut Teknologi Garut Jurusan Teknik Informatika, dan ini pengerjaan tugas praktikum pemrograman mobile saya.",
+                textAlign: TextAlign.center,
+                style: TextStyle(fontSize: 14),
+              ),
+            ),
+            SizedBox(height: 10),
             Text(
-              "Saya merupakan mahasiswa semester 6 di Institut Teknologi Garut Jurusan Teknik Informatika, dan ini pengerjaan tugas praktikum pemrograman mobile saya.",
-              textAlign: TextAlign.center,
-              style: TextStyle(fontSize: 14),
+              "NotesAppMobile",
+              style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 30),
             const Text("itg.ac.id © 2024"),
